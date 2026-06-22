@@ -1,7 +1,7 @@
-# primeiro-projeto
+# Personalizando-Meu-Perfil
 ## Por: Erika Oliveira Rodrigues
-> vitoria é uma rata
-> [prova](https://revistagalileu.globo.com/Ciencia/noticia/2018/08/rato-toupeira-pelado-tem-habito-bizarro-para-propagar-o-amor-maternal.html)
+> Olá sou estudante do 3° ano de informatica e esse é meu primeiro projeto <3
+> []()
 
 
 Para um comando simples: `código`
