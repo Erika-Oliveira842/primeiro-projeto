@@ -1,4 +1,4 @@
 # primeiro-projeto
 ## Por: Erika Oliveira Rodrigues
 > vitoria é uma rata
-> [prova](https://pt.dreamstime.com/rato-pelado-sem-pelo-de-molerato-isolado-em-branco-image176179821)
+> [prova](https://revistagalileu.globo.com/Ciencia/noticia/2018/08/rato-toupeira-pelado-tem-habito-bizarro-para-propagar-o-amor-maternal.html)
